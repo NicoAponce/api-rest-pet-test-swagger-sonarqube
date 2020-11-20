@@ -1,0 +1,1 @@
+INSERT INTO  pets(name, age, species, breed) VALUES('Toby',4,'perro','pitbull');INSERT INTO  pets(name, age, species, breed) VALUES('mimi',7,'gato','persa');
