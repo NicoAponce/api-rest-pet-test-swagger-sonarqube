@@ -1,1 +1,1 @@
-package project.spring.apirestpet.repository;import org.springframework.data.jpa.repository.JpaRepository;import org.springframework.stereotype.Repository;import project.spring.apirestpet.entity.Pet;@Repositorypublic interface PetRepository extends JpaRepository<Pet, Long> {}
+package project.spring.apirestpet.repository;import org.springframework.data.jpa.repository.JpaRepository;import org.springframework.stereotype.Repository;import project.spring.apirestpet.model.entity.Pet;@Repositorypublic interface PetRepository extends JpaRepository<Pet, Long> {}
