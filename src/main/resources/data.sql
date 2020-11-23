@@ -1,1 +1,1 @@
-INSERT INTO  pets(name, age, species, breed) VALUES('Toby',4,'perro','pitbull');INSERT INTO  pets(name, age, species, breed) VALUES('mimi',7,'gato','persa');
+INSERT INTO  pets(name, age, species, breed) VALUES('Toby',4,'perro','pitbull');INSERT INTO  pets(name, age, species, breed) VALUES('mimi',7,'gato','persa');INSERT INTO users(name,username,password,authorities) VALUES('nicolas','nicolas','pass','ROLE_USER,ROLE_ADMIN');INSERT INTO users(name,username,password,authorities) VALUES('dyana','dyana','pass','ROLE_USER');
